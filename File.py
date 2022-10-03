@@ -1,4 +1,4 @@
-atry:
+atry
 	import requests,calendar
 except ModuleNotFoundError:
 	os.system("python -m pip install requests ")
